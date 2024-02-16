@@ -1,3 +1,3 @@
 # project_1
 
-experiment sharable jupyter notebook
+Loan approval project using Python, Jupyter Notebook and Keras
