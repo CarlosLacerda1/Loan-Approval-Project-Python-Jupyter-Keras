@@ -1,3 +1,3 @@
-# project_1
+# Loan Approval Project
 
 Loan approval project using Python, Jupyter Notebook and Keras
